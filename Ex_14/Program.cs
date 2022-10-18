@@ -4,9 +4,11 @@ Console.Clear();
 Console.WriteLine("Введите число для проверки");
 int num = int.Parse(Console.ReadLine()!);
 
-if (num%7==0 && num%23==0){
+if (num % 7 == 0 && num % 23 == 0)
+{
     Console.Write("ДА");
 }
-else{
+else
+{
     Console.Write("НЕТ");
 }
