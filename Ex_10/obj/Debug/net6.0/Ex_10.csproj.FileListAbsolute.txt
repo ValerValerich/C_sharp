@@ -1,0 +1,15 @@
+C:\Users\zabab\Desktop\Csharp\Ex_10\bin\Debug\net6.0\Ex_10.exe
+C:\Users\zabab\Desktop\Csharp\Ex_10\bin\Debug\net6.0\Ex_10.deps.json
+C:\Users\zabab\Desktop\Csharp\Ex_10\bin\Debug\net6.0\Ex_10.runtimeconfig.json
+C:\Users\zabab\Desktop\Csharp\Ex_10\bin\Debug\net6.0\Ex_10.dll
+C:\Users\zabab\Desktop\Csharp\Ex_10\bin\Debug\net6.0\Ex_10.pdb
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.csproj.AssemblyReference.cache
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.AssemblyInfoInputs.cache
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.AssemblyInfo.cs
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.csproj.CoreCompileInputs.cache
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.dll
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\refint\Ex_10.dll
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.pdb
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\Ex_10.genruntimeconfig.cache
+C:\Users\zabab\Desktop\Csharp\Ex_10\obj\Debug\net6.0\ref\Ex_10.dll
