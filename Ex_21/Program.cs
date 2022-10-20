@@ -1,20 +1,18 @@
-﻿// Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве
+﻿// Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве
 
-double getL(double x1, double y1, double x2, double y2)
+double getL(int x1, int y1, int z1, int x2, int y2, int z2)
 {
-    double result = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
+    double result = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2) + Math.Pow((z2 - z1), 2));
     return result;
 }
 
 Console.Clear();
 
-Console.WriteLine("Введите х первого числа");
-double X1 = double.Parse(Console.ReadLine()!);
-Console.WriteLine("Введите у первого числа");
-double Y1 = double.Parse(Console.ReadLine()!);
-Console.WriteLine("Введите х второго числа");
-double X2 = double.Parse(Console.ReadLine()!);
-Console.WriteLine("Введите у второго числа");
-double Y2 = double.Parse(Console.ReadLine()!);
+Console.WriteLine("Введите х, y и z первого числа через пробел");
+int[] a = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-Console.WriteLine($"{getL(X1, Y1, X2, Y2):f2}");
+Console.WriteLine("Введите х, y и z второго числа через пробел");
+int[] b = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+
+Console.WriteLine($"{getL(a[0], a[1], a[2], b[0], b[1], b[2]):f2}");
