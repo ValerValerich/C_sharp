@@ -1,0 +1,15 @@
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.csproj.AssemblyReference.cache
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.AssemblyInfoInputs.cache
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.AssemblyInfo.cs
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.csproj.CoreCompileInputs.cache
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\bin\Debug\net6.0\Ex_withStar.exe
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\bin\Debug\net6.0\Ex_withStar.deps.json
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\bin\Debug\net6.0\Ex_withStar.runtimeconfig.json
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\bin\Debug\net6.0\Ex_withStar.dll
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\bin\Debug\net6.0\Ex_withStar.pdb
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.dll
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\refint\Ex_withStar.dll
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.pdb
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\Ex_withStar.genruntimeconfig.cache
+C:\Users\zabab\Desktop\Csharp\Ex_withStar\obj\Debug\net6.0\ref\Ex_withStar.dll
