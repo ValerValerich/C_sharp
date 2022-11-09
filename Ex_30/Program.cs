@@ -15,5 +15,5 @@ int[] GetArr(int x)
 Console.WriteLine("Введите длину массива");
 foreach (int i in GetArr(int.Parse(Console.ReadLine()!)))
 {
-    Console.Write(i);
+    Console.Write(i + " ");
 }
