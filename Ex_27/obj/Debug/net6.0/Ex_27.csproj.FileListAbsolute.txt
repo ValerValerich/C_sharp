@@ -1,0 +1,15 @@
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.csproj.AssemblyReference.cache
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.AssemblyInfoInputs.cache
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.AssemblyInfo.cs
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.csproj.CoreCompileInputs.cache
+C:\Users\zabab\Desktop\Csharp\Ex_27\bin\Debug\net6.0\Ex_27.exe
+C:\Users\zabab\Desktop\Csharp\Ex_27\bin\Debug\net6.0\Ex_27.deps.json
+C:\Users\zabab\Desktop\Csharp\Ex_27\bin\Debug\net6.0\Ex_27.runtimeconfig.json
+C:\Users\zabab\Desktop\Csharp\Ex_27\bin\Debug\net6.0\Ex_27.dll
+C:\Users\zabab\Desktop\Csharp\Ex_27\bin\Debug\net6.0\Ex_27.pdb
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.dll
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\refint\Ex_27.dll
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.pdb
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\Ex_27.genruntimeconfig.cache
+C:\Users\zabab\Desktop\Csharp\Ex_27\obj\Debug\net6.0\ref\Ex_27.dll
