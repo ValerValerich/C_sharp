@@ -4,9 +4,10 @@ Console.Clear();
 
 int GetPow(int[] a)
 {
-    int result=1;
-    for (int i =0; i<a[1]; i++){
-        result*=a[0];
+    int result = 1;
+    for (int i = 0; i < a[1]; i++)
+    {
+        result *= a[0];
     }
     return result;
 }
@@ -14,6 +15,6 @@ int GetPow(int[] a)
 Console.WriteLine("Введите число и степень для возведения через пробел");
 
 
-int[] clientData=Console.ReadLine()!.Split(' ').Select(int.Parse).ToArray();
+int[] clientData = Console.ReadLine()!.Split(' ').Select(int.Parse).ToArray();
 
 Console.WriteLine(GetPow(clientData));
