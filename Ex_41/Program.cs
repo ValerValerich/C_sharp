@@ -4,9 +4,10 @@ Console.Clear();
 
 int CountPos(int[] arr)
 {
-    int cnt=0;
-    foreach(int el in arr){
-        cnt+=el>0? 1:0;
+    int cnt = 0;
+    foreach (int el in arr)
+    {
+        cnt += el > 0 ? 1 : 0;
     }
     return cnt;
 }
