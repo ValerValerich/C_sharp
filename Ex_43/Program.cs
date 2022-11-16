@@ -27,6 +27,8 @@ int[] first = Console.ReadLine()!.Split(',').Select(int.Parse).ToArray();
 Console.WriteLine("Введите через запятую b и k для второй прямой");
 int[] second = Console.ReadLine()!.Split(',').Select(int.Parse).ToArray();
 
-foreach (double el in CrossPoint(first, second)){
+Console.WriteLine($"({String.Join(';', CrossPoint(first, second))})");
+
+/*foreach (double el in CrossPoint(first, second)){
     Console.WriteLine(el);
-}
+}*/
