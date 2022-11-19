@@ -21,13 +21,13 @@ void GetMediemAr(int[,] ar) // Вывод средних арифметичес�
 {
     for (int i = 0; i < ar.GetLength(1); i++)
     {
-        double res=0;
+        double res = 0;
         for (int j = 0; j < ar.GetLength(0); j++)
         {
-            res+=ar[j,i];
+            res += ar[j, i];
         }
-        res/=ar.GetLength(0);
-        Console.WriteLine($"Среднее арифметическое столбца {i+1} равно {Math.Round(res, 1)}");
+        res /= ar.GetLength(0);
+        Console.WriteLine($"Среднее арифметическое столбца {i + 1} равно {Math.Round(res, 1)}");
     }
 }
 

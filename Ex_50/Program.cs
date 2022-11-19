@@ -28,7 +28,7 @@ string FindNum(int num, int[,] inArray) // Поиск элемента в мас
             if (inArray[i, j] == num)
             {
                 return res = $"Адрес искомого элемента: строка {i + 1}, столбец {j + 1}";
-                
+
             }
         }
     }
