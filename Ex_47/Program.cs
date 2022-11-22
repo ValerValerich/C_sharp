@@ -16,6 +16,7 @@ double[,] GetArray(int rows, int cols, int minValue, int maxValue) // Метод
     return res;
 }
 
+
 void PrintArr(double[,] arr) // Печать матрицы
 {
     for (int i = 0; i < arr.GetLength(0); i++)
