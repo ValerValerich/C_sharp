@@ -28,7 +28,7 @@ void PrintArr(int[,] inAr) // Печать двумерного массива
     Console.WriteLine();
 }
 
-int[] SortOneString(int[] ar)
+int[] SortOneString(int[] ar) // Сортировка одной строки
 {
     int temp = 0;
     for (int j = 1; j < ar.Length; j++)
@@ -52,7 +52,7 @@ int[,] SortTwoD(int[,] arr)
     int col = arr.GetLength(1);
     int[,] res=new int[row, col];
     for (int i = 0; i < row; i++)
-    {int[]temp=new int[col];
+    {int[]temp=new int[col]; // Временный одномерный массив для хранения строчки. Сортируем её зависимым методом. Знаю, не айс =(
         for (int j = 0; j < col; j++)
         {
             temp[j]=arr[i, j];
