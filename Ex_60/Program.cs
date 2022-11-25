@@ -3,7 +3,7 @@
 
 Console.Clear();
 
-int[,,] GetAr(int m, int n, int k, int mi = 1, int ma = 10) // Создание куба. Диапазон задан по умолчанию
+int[,,] GetAr(int m, int n, int k, int mi = 10, int ma = 99) // Создание куба. Диапазон задан по умолчанию
 {
     int[,,] res = new int[m, n, k];
     for (int i = 0; i < m; i++)
