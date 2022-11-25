@@ -3,8 +3,26 @@
 
 Console.Clear();
 
-int[,,] GetAr(int m, int n, int k, int mi = 10, int ma = 99) // Создание куба. Диапазон задан по умолчанию
+int[] RandomNums(int mi = 10, int ma = 99)
 {
+    int[] mass = new int[ma-mi];
+    for (int i = 0; i < mass.Length; i++)
+    {
+        mass[i]=(i + mi);
+    }
+    for (int j = mass.Length - 1; j >= 1; j--)
+    {
+        int u = new Random().Next(j + 1);
+        int temp = mass[u];
+        mass[u] = mass[j];
+        mass[j] = temp;
+    }
+    return mass;
+}
+
+int[,,] GetAr(int m, int n, int k, int[] ar) // Создание куба.
+{
+    int c = 0;
     int[,,] res = new int[m, n, k];
     for (int i = 0; i < m; i++)
     {
@@ -12,7 +30,11 @@ int[,,] GetAr(int m, int n, int k, int mi = 10, int ma = 99) // Создание
         {
             for (int l = 0; l < k; l++)
             {
-                res[i, j, l] = new Random().Next(mi, ma + 1);
+
+                res[i, j, l] = ar[c];
+                c++;
+
+
             }
         }
     }
@@ -41,6 +63,10 @@ int b = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите длину третьего измерения куба");
 int c = int.Parse(Console.ReadLine()!);
 
-int[,,] array = GetAr(a, b, c);
+int[] massRandom = RandomNums();
+
+
+
+int[,,] array = GetAr(a, b, c, massRandom);
 PrintArr(array);
 
