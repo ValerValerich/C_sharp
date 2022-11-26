@@ -3,7 +3,7 @@
 
 Console.Clear();
 
-int[] RandomNums(int mi = 10, int ma = 99)
+int[] RandomNums(int mi = 10, int ma = 100)
 {
     int[] mass = new int[ma-mi];
     for (int i = 0; i < mass.Length; i++)
